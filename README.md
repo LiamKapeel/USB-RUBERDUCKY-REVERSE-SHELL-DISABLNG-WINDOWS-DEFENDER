@@ -2,8 +2,9 @@
 USB rubber ducky reverse shell with disabling windows defender
 
 
-CHANGE THE URL=ON LINE 41 TO YOUR REVERSE TCP LINK DOWNLOAD 
-CHANGE THE $FILE TO THE EXE NAME
+#CHANGE THE URL=ON LINE 41 TO YOUR REVERSE TCP LINK DOWNLOAD 
+
+#CHANGE THE $FILE TO THE EXE NAME
 
 You may use other types of executables to be launched within this script as well 
 may adjust delay as needed
